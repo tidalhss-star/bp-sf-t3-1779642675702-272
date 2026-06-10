@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title><![CDATA[마포 화곡 셔츠룸]]></title>
-  <link>https://sf-t3-1779642675702-272.pages.dev</link>
-  <description><![CDATA[마포 서버 웜업 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
-  <language>ko-KR</language>
-  <pubDate>Thu, 28 May 2026 12:47:17 GMT</pubDate>
-  <lastBuildDate>Thu, 28 May 2026 12:47:17 GMT</lastBuildDate>
-  <atom:link href="https://sf-t3-1779642675702-272.pages.dev/feed.xml" rel="self" type="application/rss+xml" />
+  <title><![CDATA[서버 웜업]]></title>
+  <link>https://sf-t3-1779642675702-272.vercel.app</link>
+  <description><![CDATA[서버 웜업 - 화곡 셔츠룸 관련 최신 소식 및 가이드]]></description>
+  <language>ko</language>
+  <pubDate>Wed, 10 Jun 2026 18:39:55 GMT</pubDate>
+  <lastBuildDate>Wed, 10 Jun 2026 18:39:55 GMT</lastBuildDate>
+  <atom:link href="https://sf-t3-1779642675702-272.vercel.app/feed.xml" rel="self" type="application/rss+xml" />
   
     <item>
-      <title><![CDATA[마포 화곡 셔츠룸 - 공식 홈페이지 오픈 안내]]></title>
-      <link>https://sf-t3-1779642675702-272.pages.dev/</link>
-      <guid isPermaLink="true">https://sf-t3-1779642675702-272.pages.dev/</guid>
-      <description><![CDATA[마포 서버 웜업 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
-      <pubDate>Thu, 28 May 2026 12:47:17 GMT</pubDate>
+      <title><![CDATA[퇴사자에게 드리는 진짜 사유 TOP3]]></title>
+      <link>https://sf-t3-1779642675702-272.vercel.app/posts/interview-002-cdvoj6.html</link>
+      <guid isPermaLink="true">https://sf-t3-1779642675702-272.vercel.app/posts/interview-002-cdvoj6.html</guid>
+      <description><![CDATA[아, 진짜... 대기업 인사팀에서만 사용하는 역량평가 BARS 스케일의 앵커 예시 작성 실무 노하우를 논하며, 퇴직 면담에서 HR이 절대 기록하지 않는 진짜 사유 TOP3를 찾아보려 합니다. ## 소제목### 관찰 포인트 #### 1) "왜 내가 이岗位에 오르지 못했는]]></description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
     </item>
 </channel>
 </rss>
